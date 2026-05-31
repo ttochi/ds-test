@@ -1,0 +1,6 @@
+.claude
+.ipynb_checkpoints
+.venv
+.venv-test
+.DS_Store
+*.zip
